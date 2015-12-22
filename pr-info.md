@@ -1,8 +1,8 @@
 ### Übersicht
 Stand: 22.12.2015
 
-Fach          | Datum                       | Raum  | Dauer | Spick         | Spick Blätter | Spick Seiten  | Hilfsmittel
----           | ---                         | ---   | ---   | ---           | ---           | ---           | ---
+Fach          | Datum                  | Raum  | Dauer | Spick         | Spick Blätter | Spick Seiten  | Hilfsmittel
+---           | ---                    | ---   | ---   | ---           | ---           | ---           | ---
 DAB1          | Freitag, 22.01.2016    | TH541 | 90    | HS            | 5             | 10            | Keine
 EFEN1 (muev)  | Freitag, 22.01.2016    | SoE   | 90    | NO            | -             | -             | Keine
 INCO1         | Dienstag, 26.01.2016   | TB330 | 90    | YES           | ?             | ?             | Unterlagen, keine el. Hilfsmittel/Bücher ausser TR
