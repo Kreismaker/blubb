@@ -9,3 +9,14 @@ PROG1   | Donnerstag, 28. Januar 2016 | TP406 | 90    | NO            | 0       
 SIBE1   | Montag, 18. Januar 2016     | SoE   | 90    | NO            | 0             | 0             | PC, Memory Stick, Gedruckte Unterrichtsmaterialien, Wörter-/Lehrbücher
 THIN1   | Donnerstag, 21. Januar 2016 | TE216 | 90    | HS            | 2             | 4             | Keine
 WEB1    | Montag, 25. Januar 2016     | TL202 | 45    | "beschrieben" | 1             | 2             | Keine
+
+### Spick Arten:
+
+Art   | Beschreibung
+---   | ---
+NO    | Kein Spick erlaubt
+YES   | Spick erlaubt, Angaben undeutlich oder unbekannt
+HS    | Laut Kursvorgabe handschriftlich
+PC    | Laut Kursvorgabe entweder handschriftlich oder mit PC
+
+Alle Spicksumfänge sind in A4-Blättern/-Seiten angegeben.
