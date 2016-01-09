@@ -1,5 +1,5 @@
 ### Übersicht
-Stand: 22.12.2015
+Stand: 09.01.2015
 
 Fach    | Datum                   | Raum    | Uhrzeit
 ---     | ---                     | ---     | ---
